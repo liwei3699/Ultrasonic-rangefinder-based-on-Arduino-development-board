@@ -6,7 +6,7 @@ Ultrasonic module
 Active buzzer
 9V battery
 ## Circuit design
-![1681535161761](https://github.com/liwei3699/Ultrasonic-rangefinder-based-on-Arduino-development-board/blob/main/%E7%94%B5%E8%B7%AF%E5%9B%BE%E8%AE%BE%E8%AE%A1.png)
+![Circuit design](https://github.com/liwei3699/Ultrasonic-rangefinder-based-on-Arduino-development-board/blob/main/%E7%94%B5%E8%B7%AF%E5%9B%BE%E8%AE%BE%E8%AE%A1.png)
 ## How it works
 (1) The circuit board generates a high-pulse trigger ultrasonic ranging module
 (2) The circuit board determines whether the distance between the object and the circuit board is lower than the set value of 35cm

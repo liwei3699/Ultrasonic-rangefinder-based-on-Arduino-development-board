@@ -16,7 +16,7 @@ Arduino电路板(UNO主板)
 
 ## 电路设计
 
-![1681532042712](image/README/1681532042712.png)
+![1681532042712](https://github.com/liwei3699/Ultrasonic-rangefinder-based-on-Arduino-development-board/blob/main/%E7%94%B5%E8%B7%AF%E5%9B%BE%E8%AE%BE%E8%AE%A1.png)
 
 ## 工作原理
 
